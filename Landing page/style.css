@@ -9,7 +9,7 @@
     --white: #fff;
     --color1: #181818 ;
     --font1: 'Roboto', sans-serif;
-    --font2: 'Bebas', cursive ;
+    --font2: 'Bebas Neue', cursive;
 }
 body {
     font-family: var(--font1);
